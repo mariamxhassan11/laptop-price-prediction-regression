@@ -1,0 +1,81 @@
+{
+    "project_title": "Laptop Retail Price Regression",
+    "task_type": "regression",
+    "target_column": "price_usd",
+    "best_model_name": "Ridge",
+    "numeric_features": [
+        "inches",
+        "ram_gb",
+        "ssd_gb",
+        "weight_kg"
+    ],
+    "categorical_features": [
+        "company",
+        "typename",
+        "cpu_brand",
+        "gpu_brand"
+    ],
+    "feature_ranges": {
+        "inches": {
+            "min": 13.3,
+            "max": 17.3,
+            "default": 15.34,
+            "dtype": "float"
+        },
+        "ram_gb": {
+            "min": 4,
+            "max": 64,
+            "default": 32,
+            "dtype": "int"
+        },
+        "ssd_gb": {
+            "min": 128,
+            "max": 2048,
+            "default": 1019,
+            "dtype": "int"
+        },
+        "weight_kg": {
+            "min": 1.1,
+            "max": 3.2,
+            "default": 2.09,
+            "dtype": "float"
+        }
+    },
+    "categorical_options": {
+        "company": [
+            "Dell",
+            "HP",
+            "Lenovo",
+            "Asus",
+            "Apple",
+            "Acer",
+            "MSI"
+        ],
+        "typename": [
+            "Notebook",
+            "Gaming",
+            "Ultrabook",
+            "2 in 1 Convertible",
+            "Workstation"
+        ],
+        "cpu_brand": [
+            "Intel Core i5",
+            "Intel Core i7",
+            "Intel Core i9",
+            "AMD Ryzen 5",
+            "AMD Ryzen 7",
+            "Apple M3"
+        ],
+        "gpu_brand": [
+            "Intel",
+            "Nvidia",
+            "AMD",
+            "Apple"
+        ]
+    },
+    "metrics": {
+        "r2": 0.8782,
+        "mae": 180.94,
+        "rmse": 241.24
+    }
+}

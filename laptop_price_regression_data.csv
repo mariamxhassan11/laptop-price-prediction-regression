@@ -1,0 +1,451 @@
+company,typename,inches,ram_gb,cpu_brand,ssd_gb,gpu_brand,weight_kg,price_usd
+Asus,Gaming,15.28,23,AMD Ryzen 7,192,Nvidia,2.22,287.5
+HP,Workstation,13.98,39,Apple M3,805,Nvidia,1.26,402.06
+Apple,2 in 1 Convertible,15.9,36,Intel Core i9,1215,Apple,2.87,1612.42
+Lenovo,Notebook,15.78,25,Apple M3,1421,Apple,3.12,2272.32
+Apple,Ultrabook,14.36,11,Intel Core i5,784,Apple,1.95,287.5
+Dell,Ultrabook,15.16,59,Apple M3,1528,Nvidia,1.57,1990.44
+Apple,Workstation,16.88,50,Apple M3,1996,Nvidia,1.14,3154.0
+Lenovo,Gaming,16.39,27,Apple M3,908,Apple,1.6,1195.04
+HP,Workstation,14.21,56,Apple M3,456,AMD,2.57,927.03
+Dell,Workstation,16.82,61,Intel Core i9,645,AMD,3.01,2337.16
+Apple,Workstation,13.57,57,AMD Ryzen 7,1784,AMD,1.3,556.25
+Asus,2 in 1 Convertible,14.96,40,Intel Core i7,989,AMD,2.26,953.06
+Lenovo,2 in 1 Convertible,13.62,23,Intel Core i9,548,Apple,2.56,287.5
+HP,Workstation,17.0,15,AMD Ryzen 5,1464,Intel,1.68,1750.16
+Acer,Gaming,13.46,23,AMD Ryzen 7,436,Intel,2.3,287.5
+Lenovo,Notebook,13.9,23,AMD Ryzen 7,941,AMD,2.6,287.5
+Apple,Ultrabook,16.96,7,AMD Ryzen 5,973,Nvidia,2.86,2179.49
+MSI,2 in 1 Convertible,15.63,33,Intel Core i5,1795,AMD,2.05,1923.88
+HP,Notebook,16.48,34,AMD Ryzen 5,1953,AMD,2.67,2277.39
+Asus,2 in 1 Convertible,13.37,25,Intel Core i5,1089,Intel,1.73,287.5
+Dell,2 in 1 Convertible,14.98,18,Intel Core i7,1340,Nvidia,1.55,1188.28
+Apple,2 in 1 Convertible,17.24,41,Intel Core i5,848,Intel,1.49,1418.23
+HP,Workstation,15.62,40,Intel Core i7,1193,Nvidia,1.85,1972.94
+Dell,Workstation,16.7,31,Intel Core i7,717,Apple,1.18,1293.55
+MSI,2 in 1 Convertible,17.15,14,Apple M3,447,Intel,1.69,821.32
+HP,2 in 1 Convertible,16.04,17,Apple M3,1138,Apple,2.47,1148.91
+Acer,Ultrabook,14.61,14,AMD Ryzen 5,1808,Apple,2.46,670.53
+Apple,Notebook,14.53,12,Intel Core i7,572,AMD,1.25,287.5
+HP,Notebook,13.59,27,Intel Core i5,1525,Nvidia,1.7,642.55
+Asus,Gaming,15.01,13,Intel Core i9,413,Intel,2.3,392.24
+MSI,Gaming,16.96,41,Apple M3,298,AMD,1.77,966.54
+HP,Gaming,15.21,46,AMD Ryzen 7,1756,Intel,1.98,1877.44
+Apple,Workstation,16.94,44,AMD Ryzen 7,390,Apple,2.6,1468.1
+HP,Workstation,16.57,40,Intel Core i5,1069,Intel,1.12,1862.92
+Dell,Ultrabook,17.24,45,Apple M3,1686,Intel,1.68,2874.1
+Dell,Workstation,17.09,35,Intel Core i9,1955,AMD,1.4,2698.58
+MSI,Gaming,16.13,23,Intel Core i7,269,Nvidia,1.37,433.23
+Acer,2 in 1 Convertible,16.78,17,Apple M3,1299,Intel,3.11,1901.48
+Lenovo,Gaming,16.29,41,Intel Core i5,1591,Apple,1.89,2245.95
+MSI,Ultrabook,16.11,7,Intel Core i7,755,Apple,2.21,999.54
+Acer,2 in 1 Convertible,16.16,27,Apple M3,720,AMD,2.64,445.55
+MSI,Workstation,16.18,35,AMD Ryzen 5,543,Apple,1.2,745.85
+Lenovo,2 in 1 Convertible,14.82,58,Intel Core i9,152,Intel,1.61,287.5
+Asus,Ultrabook,14.99,56,AMD Ryzen 7,754,Nvidia,2.85,1742.62
+Dell,Workstation,14.48,13,Intel Core i5,221,Intel,2.91,290.83
+Lenovo,Notebook,13.89,57,AMD Ryzen 7,432,AMD,1.88,287.5
+HP,Gaming,15.13,46,Intel Core i7,312,Apple,1.89,320.72
+Asus,Gaming,16.9,19,Intel Core i7,410,Intel,2.69,1733.58
+Apple,Ultrabook,15.91,42,AMD Ryzen 5,1306,Intel,1.72,1151.04
+Lenovo,Ultrabook,13.52,35,Intel Core i7,813,Apple,1.35,287.5
+MSI,Gaming,16.54,21,Intel Core i7,990,Nvidia,1.64,1961.23
+Acer,2 in 1 Convertible,17.04,28,AMD Ryzen 7,812,Nvidia,1.91,932.25
+Lenovo,Notebook,16.62,10,AMD Ryzen 7,793,Nvidia,1.21,934.21
+Acer,Notebook,16.21,59,Intel Core i5,1165,Apple,2.11,1976.19
+MSI,Ultrabook,13.9,56,Intel Core i5,1017,Intel,2.65,1339.39
+MSI,Ultrabook,14.7,50,Intel Core i7,943,AMD,2.18,1249.09
+Acer,2 in 1 Convertible,15.56,54,Apple M3,1791,Intel,1.25,1498.38
+Dell,Ultrabook,13.61,21,Intel Core i9,468,Apple,2.02,287.5
+Asus,Notebook,13.73,50,Intel Core i5,731,Apple,2.59,383.51
+Acer,Gaming,17.04,21,Intel Core i7,1934,Intel,1.22,2354.23
+Dell,Notebook,16.11,6,Apple M3,861,Apple,1.23,399.11
+Dell,2 in 1 Convertible,14.4,4,Apple M3,1624,Intel,1.88,597.47
+Acer,Gaming,14.61,36,AMD Ryzen 7,946,Intel,1.51,287.5
+Asus,Gaming,14.84,10,Apple M3,1973,Nvidia,3.06,1569.71
+HP,Notebook,13.6,13,AMD Ryzen 5,1034,Apple,2.32,287.5
+MSI,Gaming,16.26,47,AMD Ryzen 7,1259,Apple,1.7,1735.79
+Lenovo,Gaming,14.01,62,AMD Ryzen 7,1482,Nvidia,2.58,1784.25
+Dell,Ultrabook,16.52,11,AMD Ryzen 5,667,Nvidia,1.89,997.3
+Lenovo,Gaming,16.68,57,AMD Ryzen 7,566,Nvidia,1.38,1121.17
+Asus,2 in 1 Convertible,15.85,35,Intel Core i5,1860,AMD,1.6,1481.24
+HP,Gaming,16.38,26,AMD Ryzen 7,1115,Apple,2.45,1440.89
+Apple,Ultrabook,13.99,20,AMD Ryzen 5,1863,Intel,1.21,287.5
+MSI,Workstation,15.6,17,Intel Core i7,793,Intel,1.67,1326.83
+MSI,Workstation,16.01,20,Intel Core i7,511,Intel,1.54,934.17
+HP,2 in 1 Convertible,15.95,28,Intel Core i7,709,Apple,1.52,594.09
+Asus,2 in 1 Convertible,13.77,24,AMD Ryzen 5,287,AMD,2.53,287.5
+HP,Gaming,14.68,58,AMD Ryzen 5,559,Apple,2.83,480.76
+MSI,Gaming,14.6,9,Intel Core i5,2015,Apple,2.6,1337.52
+Apple,Workstation,15.59,23,AMD Ryzen 5,1547,Apple,2.46,1598.34
+Dell,Workstation,16.36,52,Apple M3,742,Apple,3.02,2119.94
+HP,Notebook,15.58,23,Intel Core i7,615,Apple,1.22,325.25
+Acer,Workstation,16.32,61,AMD Ryzen 5,1899,AMD,1.45,2108.11
+Acer,Workstation,13.7,29,Intel Core i9,1340,Nvidia,1.97,670.04
+Asus,2 in 1 Convertible,16.81,35,AMD Ryzen 7,1569,Intel,1.88,1801.81
+MSI,Notebook,15.45,11,Intel Core i5,470,Apple,1.98,414.04
+MSI,Notebook,13.45,48,Intel Core i7,1512,Apple,1.53,1351.27
+HP,Gaming,15.87,51,Apple M3,236,Apple,1.41,287.5
+Apple,Gaming,15.37,47,Apple M3,976,Intel,2.17,1280.76
+Asus,Notebook,14.18,62,Intel Core i7,428,AMD,3.05,840.87
+HP,Notebook,16.36,32,Apple M3,1519,Intel,1.92,1869.05
+Asus,Gaming,17.03,20,Intel Core i9,1406,AMD,1.19,1300.79
+Acer,2 in 1 Convertible,14.59,21,Intel Core i5,1467,Nvidia,2.58,1204.41
+Apple,2 in 1 Convertible,15.28,43,AMD Ryzen 7,832,Apple,1.71,432.82
+Dell,2 in 1 Convertible,13.81,21,Intel Core i5,1222,AMD,1.61,287.5
+Apple,2 in 1 Convertible,17.02,14,Intel Core i5,396,Intel,1.78,624.69
+Dell,Gaming,14.58,48,Intel Core i7,1997,AMD,2.62,1830.68
+MSI,Ultrabook,14.08,15,AMD Ryzen 5,1652,AMD,2.82,1040.11
+Lenovo,Workstation,15.21,18,AMD Ryzen 7,1360,Nvidia,2.33,1645.96
+Acer,Workstation,13.47,29,Intel Core i5,605,Apple,1.78,287.5
+MSI,Workstation,14.31,60,Intel Core i9,303,Apple,1.75,1004.1
+Acer,Workstation,13.57,6,Intel Core i7,366,Intel,1.36,287.5
+Acer,Gaming,13.81,6,AMD Ryzen 5,1020,Intel,3.06,287.5
+Apple,Ultrabook,13.75,41,AMD Ryzen 5,737,Nvidia,2.44,364.99
+Dell,Gaming,16.79,38,Intel Core i7,986,AMD,1.16,1163.02
+Lenovo,Ultrabook,17.02,12,Intel Core i5,1593,AMD,2.49,2326.84
+Lenovo,Gaming,15.2,46,Apple M3,1752,Intel,2.04,1970.81
+Lenovo,Notebook,15.82,43,Intel Core i7,1915,Apple,3.14,3391.2
+MSI,Ultrabook,16.08,7,Apple M3,619,AMD,2.82,992.48
+Asus,Workstation,14.87,57,AMD Ryzen 5,226,Nvidia,1.46,453.06
+Apple,Ultrabook,14.78,59,AMD Ryzen 5,456,Intel,2.61,1283.55
+Apple,2 in 1 Convertible,16.0,23,Intel Core i9,1477,AMD,2.12,1165.52
+MSI,Ultrabook,14.81,18,Intel Core i9,572,Apple,1.49,462.46
+Acer,2 in 1 Convertible,15.62,32,AMD Ryzen 5,1817,Apple,2.57,1479.7
+Apple,2 in 1 Convertible,15.36,8,Intel Core i9,1125,Nvidia,2.25,959.47
+Apple,Notebook,15.4,42,Intel Core i9,422,Nvidia,1.16,604.27
+Asus,Ultrabook,16.62,43,Intel Core i9,569,Intel,2.46,1841.74
+Apple,Notebook,16.12,10,AMD Ryzen 5,922,Intel,2.43,897.61
+Dell,Workstation,17.14,11,Intel Core i5,1959,Apple,1.4,1983.64
+MSI,Ultrabook,16.46,35,Intel Core i5,1018,Apple,1.83,2224.99
+Lenovo,Gaming,13.88,39,AMD Ryzen 7,158,AMD,2.33,287.5
+Asus,Gaming,16.25,36,Intel Core i9,1282,AMD,1.39,1256.92
+Asus,Gaming,15.96,57,Intel Core i5,1879,AMD,2.89,2864.85
+Acer,2 in 1 Convertible,15.88,40,AMD Ryzen 7,1678,Nvidia,1.16,1215.7
+Apple,Gaming,15.22,35,Intel Core i7,565,Nvidia,1.32,393.84
+Lenovo,Workstation,13.55,46,Intel Core i9,1477,AMD,1.34,864.87
+MSI,Ultrabook,17.11,39,Intel Core i5,1418,Apple,2.21,2980.53
+Dell,Ultrabook,16.71,37,Intel Core i5,413,Intel,2.4,1542.53
+MSI,2 in 1 Convertible,15.25,52,Apple M3,418,Nvidia,1.95,1123.67
+Lenovo,2 in 1 Convertible,13.93,28,Intel Core i5,495,Nvidia,1.71,287.5
+MSI,2 in 1 Convertible,16.6,47,Apple M3,613,AMD,2.8,1653.24
+HP,Workstation,15.02,35,AMD Ryzen 7,682,Intel,1.24,287.5
+Lenovo,Ultrabook,14.86,5,Apple M3,295,Nvidia,1.69,287.5
+Dell,Notebook,15.96,12,Intel Core i7,2012,Intel,1.18,1547.55
+Dell,2 in 1 Convertible,16.33,41,Intel Core i9,1622,Nvidia,1.13,2081.68
+Dell,Gaming,13.55,32,Intel Core i5,1918,Intel,1.84,1385.14
+Asus,Notebook,16.37,41,AMD Ryzen 5,1321,Intel,1.51,1230.04
+MSI,Notebook,16.24,21,Intel Core i9,2038,Nvidia,1.66,2787.0
+Asus,2 in 1 Convertible,15.66,25,AMD Ryzen 5,898,Intel,2.82,780.26
+HP,Gaming,14.65,38,AMD Ryzen 7,1497,Apple,1.44,569.65
+Lenovo,2 in 1 Convertible,13.96,18,Intel Core i5,205,Nvidia,2.74,287.5
+Apple,2 in 1 Convertible,13.71,10,Intel Core i9,978,Nvidia,2.52,502.39
+Acer,Gaming,13.3,16,Intel Core i9,1236,Apple,1.79,287.5
+HP,Notebook,14.13,45,Intel Core i5,1019,Intel,2.25,864.33
+MSI,Notebook,14.95,39,Intel Core i7,788,Apple,2.03,1193.13
+Apple,Gaming,14.27,19,AMD Ryzen 7,1352,Nvidia,1.37,287.5
+MSI,Notebook,14.54,44,Intel Core i5,716,Apple,3.01,1205.49
+Apple,Workstation,14.86,24,Apple M3,1512,Intel,2.3,1025.64
+HP,2 in 1 Convertible,14.53,31,Intel Core i9,889,Apple,2.95,1440.63
+Lenovo,Workstation,16.2,13,Intel Core i7,692,Nvidia,2.83,2215.69
+Acer,Workstation,15.27,22,Intel Core i9,939,Intel,1.27,602.66
+Apple,Workstation,13.38,20,AMD Ryzen 5,429,Nvidia,1.54,287.5
+Asus,Ultrabook,14.21,4,Intel Core i9,420,Nvidia,1.41,287.5
+Asus,Ultrabook,16.14,16,AMD Ryzen 7,421,AMD,2.84,835.96
+HP,Workstation,14.5,39,Intel Core i5,236,Nvidia,2.91,1034.09
+Acer,2 in 1 Convertible,16.98,50,Intel Core i9,492,Nvidia,2.21,1707.58
+Acer,Workstation,16.15,61,Apple M3,727,Intel,1.32,1219.22
+MSI,Workstation,14.46,45,AMD Ryzen 5,805,Intel,1.38,794.94
+Apple,Ultrabook,15.37,23,AMD Ryzen 5,1645,Intel,2.81,2117.09
+HP,Workstation,15.97,44,Intel Core i5,1418,Apple,3.05,2697.27
+Acer,2 in 1 Convertible,14.07,43,AMD Ryzen 5,220,Apple,1.52,287.5
+Acer,2 in 1 Convertible,14.28,55,Intel Core i5,1836,Intel,1.12,957.27
+Asus,Workstation,15.33,9,AMD Ryzen 7,1215,Apple,1.8,716.84
+HP,2 in 1 Convertible,17.0,26,Intel Core i5,555,AMD,1.16,483.81
+Apple,Workstation,14.68,45,Intel Core i7,765,Apple,2.84,1221.95
+Apple,Ultrabook,14.91,27,AMD Ryzen 5,495,AMD,2.13,287.5
+Asus,Workstation,14.06,55,AMD Ryzen 5,1893,Intel,2.45,1574.13
+MSI,Notebook,15.67,52,Apple M3,232,Intel,1.96,970.88
+Dell,Ultrabook,16.26,8,Intel Core i9,336,Apple,1.83,287.5
+Dell,2 in 1 Convertible,15.06,35,Intel Core i7,1725,Intel,1.57,1344.81
+Acer,2 in 1 Convertible,16.3,49,Intel Core i9,1139,Intel,2.72,1944.47
+Lenovo,Ultrabook,14.51,20,Intel Core i5,1903,Nvidia,2.56,2266.82
+Asus,Notebook,16.13,14,AMD Ryzen 7,601,Intel,1.86,358.3
+Lenovo,Ultrabook,14.33,30,Apple M3,1212,Nvidia,1.77,1023.54
+Acer,Gaming,16.42,7,AMD Ryzen 5,1497,Intel,1.1,287.5
+MSI,Notebook,16.62,26,AMD Ryzen 7,139,AMD,1.23,395.28
+Asus,Ultrabook,16.49,26,Intel Core i5,593,AMD,2.41,936.03
+Apple,Gaming,14.16,52,Intel Core i5,776,Intel,2.18,479.11
+MSI,Workstation,16.08,60,Intel Core i7,1346,AMD,2.01,2752.28
+Asus,Notebook,15.45,37,Intel Core i9,1225,AMD,2.84,1893.44
+HP,Workstation,17.24,24,AMD Ryzen 5,1002,AMD,2.16,1494.35
+Lenovo,Gaming,14.75,25,AMD Ryzen 5,513,Apple,1.91,287.5
+Asus,2 in 1 Convertible,16.39,4,AMD Ryzen 7,1287,AMD,1.44,287.5
+Lenovo,2 in 1 Convertible,14.78,35,Intel Core i7,1011,Nvidia,2.82,1613.28
+MSI,2 in 1 Convertible,14.89,31,Apple M3,682,Apple,2.31,412.01
+Acer,Workstation,13.74,21,Intel Core i5,1587,Nvidia,1.29,389.83
+Asus,Notebook,14.26,10,Intel Core i7,1190,Nvidia,2.46,873.02
+Dell,Workstation,13.96,57,AMD Ryzen 5,1694,Nvidia,1.99,1577.02
+Lenovo,Workstation,13.94,41,Apple M3,781,Apple,2.8,1391.86
+Apple,2 in 1 Convertible,13.34,9,Intel Core i9,1471,Intel,3.03,484.61
+Apple,Workstation,16.48,17,AMD Ryzen 7,2022,AMD,2.36,1923.47
+Asus,Gaming,15.17,33,Intel Core i5,992,AMD,2.64,743.02
+Apple,Ultrabook,16.52,58,Intel Core i5,1116,Intel,1.22,1845.75
+MSI,Ultrabook,15.75,61,Intel Core i5,1707,Intel,2.28,3063.99
+Apple,Ultrabook,16.63,47,Intel Core i9,1851,Nvidia,2.69,3545.93
+Lenovo,2 in 1 Convertible,15.32,49,AMD Ryzen 5,480,Apple,2.14,691.45
+MSI,2 in 1 Convertible,13.68,17,AMD Ryzen 5,641,Nvidia,2.35,287.5
+Asus,Ultrabook,15.77,47,Intel Core i7,1634,AMD,2.99,2730.05
+Lenovo,Notebook,16.01,44,Apple M3,1567,Intel,1.52,1887.57
+Asus,Ultrabook,15.81,12,Intel Core i7,931,AMD,1.31,530.58
+Apple,Workstation,16.51,34,AMD Ryzen 5,1974,Intel,2.55,3045.61
+MSI,Ultrabook,16.23,5,Intel Core i5,1521,Apple,2.83,2077.26
+Asus,Ultrabook,15.03,21,Intel Core i9,470,Nvidia,2.89,1000.58
+Acer,Notebook,16.58,8,AMD Ryzen 5,1476,AMD,2.45,958.61
+Asus,2 in 1 Convertible,16.07,29,Intel Core i9,1518,Apple,2.85,2037.57
+HP,2 in 1 Convertible,13.78,26,AMD Ryzen 7,463,AMD,2.57,287.5
+Asus,Workstation,15.46,15,Intel Core i5,1447,Intel,1.28,936.66
+HP,Ultrabook,16.21,17,AMD Ryzen 7,151,AMD,2.7,452.49
+Lenovo,Gaming,15.51,63,AMD Ryzen 5,1012,Apple,1.48,1329.99
+HP,Workstation,17.1,16,Intel Core i7,1593,Apple,1.6,2449.77
+MSI,2 in 1 Convertible,13.71,38,AMD Ryzen 5,231,Nvidia,1.93,287.5
+Lenovo,Notebook,16.19,50,AMD Ryzen 7,1563,AMD,1.76,1915.5
+Asus,2 in 1 Convertible,16.6,18,Intel Core i9,701,Intel,1.78,1176.52
+Lenovo,2 in 1 Convertible,16.11,38,Apple M3,1816,AMD,1.46,1966.5
+Apple,Notebook,14.84,55,Apple M3,902,Nvidia,1.72,1323.81
+Acer,Ultrabook,14.84,22,AMD Ryzen 5,1445,Intel,1.14,595.82
+Asus,Ultrabook,15.65,18,Intel Core i7,1014,Intel,2.09,1134.67
+MSI,2 in 1 Convertible,14.89,54,AMD Ryzen 7,370,Nvidia,2.71,1419.79
+HP,Workstation,16.83,11,AMD Ryzen 5,469,Intel,2.91,1322.96
+Acer,Gaming,13.74,26,AMD Ryzen 7,2005,Apple,2.82,659.84
+Dell,Workstation,15.86,16,AMD Ryzen 7,2010,Apple,1.97,1979.43
+Acer,Workstation,13.84,26,Intel Core i5,760,Intel,2.63,718.39
+Asus,2 in 1 Convertible,15.46,34,Apple M3,992,AMD,1.7,510.34
+MSI,2 in 1 Convertible,16.16,33,Apple M3,300,Intel,1.22,422.57
+MSI,Gaming,13.96,45,Intel Core i9,1567,AMD,2.52,1628.5
+Acer,Gaming,16.12,5,Intel Core i5,230,Nvidia,2.46,452.88
+Acer,Gaming,13.86,14,Apple M3,287,Apple,2.78,287.5
+Apple,2 in 1 Convertible,15.78,28,AMD Ryzen 7,1408,Apple,2.39,1084.88
+Lenovo,2 in 1 Convertible,15.32,32,Intel Core i7,841,Nvidia,1.43,776.66
+Acer,Workstation,14.49,25,Intel Core i7,684,Nvidia,2.89,1055.35
+HP,2 in 1 Convertible,13.75,22,Intel Core i5,703,Apple,2.42,287.5
+MSI,Ultrabook,16.24,12,Intel Core i7,323,Nvidia,2.8,1611.28
+HP,Ultrabook,14.83,44,AMD Ryzen 7,1116,Intel,2.73,1816.42
+Apple,Gaming,13.65,41,AMD Ryzen 5,1542,Intel,1.73,303.84
+Acer,2 in 1 Convertible,16.39,32,AMD Ryzen 7,1061,AMD,1.26,326.84
+Acer,Ultrabook,14.23,13,Apple M3,197,AMD,1.47,287.5
+Apple,Workstation,16.25,25,AMD Ryzen 5,1844,AMD,1.3,1884.63
+Asus,Notebook,15.56,27,Intel Core i7,970,Intel,1.61,775.04
+Dell,Workstation,14.08,11,Intel Core i9,374,Apple,2.07,287.5
+Dell,Notebook,13.61,50,Intel Core i9,456,AMD,3.0,492.74
+Lenovo,Workstation,15.67,9,AMD Ryzen 7,285,Intel,2.93,893.13
+HP,Ultrabook,13.4,10,AMD Ryzen 7,1045,Apple,2.61,287.5
+Asus,2 in 1 Convertible,13.56,23,Intel Core i7,825,Nvidia,1.15,287.5
+HP,Notebook,16.11,20,Intel Core i9,870,Intel,1.82,1428.79
+Asus,2 in 1 Convertible,15.46,39,Intel Core i9,712,Nvidia,2.53,1503.1
+Apple,2 in 1 Convertible,14.61,11,AMD Ryzen 7,182,AMD,1.37,287.5
+Lenovo,Ultrabook,15.46,63,Apple M3,613,Apple,2.78,1694.44
+Apple,Gaming,15.67,16,Intel Core i9,1394,Intel,3.02,1921.21
+HP,Gaming,15.56,27,AMD Ryzen 7,1965,AMD,1.84,1454.26
+MSI,Notebook,15.87,49,Intel Core i5,1504,AMD,2.58,2503.51
+Lenovo,Ultrabook,17.06,53,Intel Core i9,537,Apple,1.41,2324.95
+Acer,2 in 1 Convertible,14.86,34,AMD Ryzen 5,1087,Nvidia,2.55,817.57
+MSI,Workstation,14.5,26,Intel Core i7,1032,AMD,1.15,467.36
+Asus,Workstation,13.45,64,AMD Ryzen 7,854,Apple,1.42,287.5
+Asus,Notebook,13.89,20,Intel Core i9,1166,Apple,2.59,554.4
+Lenovo,Notebook,13.72,53,Intel Core i9,274,Intel,2.59,670.53
+Apple,Notebook,14.64,49,Apple M3,1641,AMD,2.45,1330.61
+Lenovo,Ultrabook,15.74,27,AMD Ryzen 7,1807,Nvidia,2.1,2348.26
+Apple,Workstation,13.49,46,AMD Ryzen 5,1176,Nvidia,2.52,1009.19
+Lenovo,Ultrabook,16.21,13,Intel Core i9,1762,AMD,2.72,2574.66
+Apple,Ultrabook,14.89,34,Intel Core i5,1842,Nvidia,3.13,2489.99
+Dell,2 in 1 Convertible,17.15,48,Intel Core i7,460,Apple,2.97,2011.36
+Lenovo,Ultrabook,15.57,64,AMD Ryzen 7,1325,Apple,2.77,2936.8
+Apple,Ultrabook,16.39,23,Intel Core i9,1926,AMD,2.56,2361.35
+Acer,2 in 1 Convertible,16.74,19,Apple M3,417,Nvidia,2.31,767.42
+HP,Gaming,16.86,17,Apple M3,697,Apple,1.35,381.98
+MSI,2 in 1 Convertible,15.37,6,Intel Core i7,1997,AMD,1.45,1138.33
+MSI,Notebook,14.89,33,AMD Ryzen 7,918,Apple,2.82,1035.07
+MSI,Gaming,15.54,21,AMD Ryzen 7,1296,AMD,2.79,1232.89
+HP,Workstation,14.91,62,AMD Ryzen 7,1036,Intel,2.39,1617.09
+Lenovo,Ultrabook,14.26,9,AMD Ryzen 5,1273,Intel,2.02,287.5
+Lenovo,Gaming,14.6,23,Intel Core i5,154,AMD,1.15,287.5
+Asus,Workstation,14.23,38,Apple M3,1217,Intel,1.79,1048.25
+Apple,2 in 1 Convertible,14.38,22,AMD Ryzen 7,1252,Intel,1.98,287.5
+Lenovo,2 in 1 Convertible,13.67,29,AMD Ryzen 5,1053,Nvidia,2.12,287.5
+HP,Notebook,15.01,38,AMD Ryzen 7,515,Intel,3.05,1090.75
+HP,Notebook,14.24,15,AMD Ryzen 7,1245,Nvidia,1.33,394.33
+MSI,Gaming,15.09,11,AMD Ryzen 5,1218,Intel,2.19,954.52
+HP,Ultrabook,16.47,60,Intel Core i5,377,Intel,1.87,1535.02
+Apple,2 in 1 Convertible,15.09,60,Intel Core i7,269,Apple,3.18,869.77
+Dell,Gaming,17.12,40,Apple M3,394,AMD,2.91,1280.9
+Lenovo,Gaming,13.89,52,Intel Core i9,1703,Intel,2.02,1632.66
+MSI,Gaming,16.7,13,AMD Ryzen 7,342,AMD,3.2,917.52
+Dell,Notebook,14.29,24,Intel Core i5,616,AMD,2.18,287.5
+Apple,2 in 1 Convertible,17.04,52,Apple M3,623,Apple,1.45,984.02
+MSI,Notebook,14.21,44,Intel Core i9,607,AMD,2.27,773.03
+Acer,Notebook,16.29,48,AMD Ryzen 7,770,AMD,1.58,552.69
+Lenovo,Gaming,13.55,45,Intel Core i9,1641,Intel,2.44,1615.17
+Asus,Workstation,15.82,32,AMD Ryzen 5,128,Apple,3.07,624.68
+Lenovo,Workstation,14.17,34,Apple M3,1160,AMD,2.75,843.27
+Lenovo,Workstation,15.98,43,Intel Core i5,2031,Intel,1.67,2975.62
+Lenovo,Gaming,15.84,10,Intel Core i5,968,Apple,1.72,619.77
+MSI,Ultrabook,16.99,37,Apple M3,507,Intel,1.25,1122.26
+MSI,2 in 1 Convertible,15.81,37,Intel Core i7,971,Apple,1.7,1367.07
+Lenovo,Gaming,14.93,33,Intel Core i7,2048,Apple,1.29,1588.12
+Acer,Gaming,14.07,7,Intel Core i9,1295,Nvidia,2.15,575.53
+Lenovo,Notebook,15.93,44,AMD Ryzen 5,2013,Nvidia,2.59,3015.19
+Apple,Workstation,13.77,33,Intel Core i9,1991,Nvidia,2.68,1951.03
+Lenovo,Gaming,16.61,28,AMD Ryzen 7,429,AMD,1.23,486.0
+Acer,Ultrabook,14.29,17,Intel Core i5,777,Intel,1.81,287.5
+Apple,2 in 1 Convertible,15.4,27,Intel Core i9,1568,Apple,1.71,1079.86
+Lenovo,Ultrabook,15.68,46,Intel Core i9,2021,Intel,1.32,2597.12
+Lenovo,Gaming,14.75,34,Apple M3,936,AMD,1.86,296.93
+Apple,Gaming,15.96,56,Intel Core i5,1330,Nvidia,1.73,2166.3
+Lenovo,Notebook,14.3,42,Intel Core i5,1429,Nvidia,2.43,1861.88
+Acer,Ultrabook,13.44,31,Intel Core i7,1295,Intel,2.95,724.86
+MSI,Notebook,17.14,28,Intel Core i7,466,Intel,2.06,1567.62
+HP,Ultrabook,14.58,22,Intel Core i5,1610,Apple,2.67,2006.52
+Lenovo,Workstation,16.15,7,Intel Core i9,1853,Intel,1.41,2131.8
+Asus,Workstation,15.33,37,AMD Ryzen 7,1482,Apple,2.98,1845.63
+Apple,Ultrabook,15.98,35,Intel Core i9,1421,Apple,1.42,1845.49
+Acer,Notebook,13.74,28,AMD Ryzen 7,1126,Nvidia,1.5,287.5
+Lenovo,Workstation,15.38,58,Intel Core i5,1338,Intel,1.32,2286.94
+Lenovo,Gaming,14.87,25,Apple M3,793,Nvidia,1.75,466.34
+Apple,2 in 1 Convertible,15.11,56,AMD Ryzen 7,1323,Apple,2.26,1270.88
+Dell,Notebook,17.16,31,Intel Core i7,531,Nvidia,3.17,2298.24
+Acer,Ultrabook,13.85,58,Apple M3,1619,Nvidia,2.77,1532.65
+Acer,2 in 1 Convertible,16.32,54,Intel Core i5,374,Apple,1.9,768.52
+HP,2 in 1 Convertible,14.62,56,AMD Ryzen 5,1674,AMD,2.31,1476.85
+MSI,Gaming,14.46,21,AMD Ryzen 7,686,AMD,2.41,287.5
+MSI,Notebook,14.38,56,AMD Ryzen 7,905,Intel,2.83,1299.31
+HP,2 in 1 Convertible,14.7,10,Apple M3,1980,Nvidia,2.65,1886.56
+Lenovo,Notebook,14.73,14,AMD Ryzen 5,238,Intel,2.3,287.5
+Apple,Gaming,14.38,45,AMD Ryzen 5,1115,Nvidia,2.51,983.7
+Asus,Ultrabook,15.97,14,Intel Core i5,940,Intel,2.67,1635.03
+Lenovo,2 in 1 Convertible,13.49,58,Apple M3,1454,Intel,1.38,815.18
+HP,2 in 1 Convertible,14.63,12,Intel Core i9,1057,Apple,1.52,287.5
+Lenovo,2 in 1 Convertible,14.42,38,AMD Ryzen 5,1013,AMD,2.55,674.55
+Apple,Notebook,16.31,59,AMD Ryzen 7,1036,AMD,2.89,1825.24
+Acer,2 in 1 Convertible,13.89,40,AMD Ryzen 5,1624,AMD,1.96,287.5
+Acer,Notebook,17.06,26,Intel Core i5,918,Apple,3.16,2118.13
+Acer,Workstation,13.98,36,Intel Core i5,419,AMD,1.55,287.5
+Acer,Workstation,14.78,4,AMD Ryzen 7,1403,Apple,1.98,697.41
+MSI,Notebook,14.1,23,AMD Ryzen 7,1739,Nvidia,1.89,1347.28
+Asus,Workstation,14.45,8,AMD Ryzen 7,302,Apple,3.05,287.5
+Dell,Gaming,16.34,32,Intel Core i9,236,Intel,1.7,806.99
+MSI,Gaming,15.21,29,AMD Ryzen 7,1089,Intel,2.09,861.77
+Asus,Workstation,13.95,54,Apple M3,1491,Nvidia,1.49,1346.43
+Lenovo,Ultrabook,13.49,41,Intel Core i5,975,Nvidia,2.19,904.65
+HP,Notebook,14.22,6,Intel Core i5,1165,Intel,2.9,720.1
+Apple,Workstation,17.08,24,AMD Ryzen 5,820,AMD,1.74,665.28
+Lenovo,Notebook,16.68,62,AMD Ryzen 7,1473,AMD,2.8,2673.46
+Dell,Workstation,15.06,16,Intel Core i9,1935,AMD,3.01,2235.55
+Apple,Gaming,15.23,34,Apple M3,1091,Nvidia,1.25,577.13
+Apple,Ultrabook,16.9,20,Intel Core i7,170,Intel,2.69,1021.87
+Apple,Notebook,15.67,38,AMD Ryzen 5,588,Apple,1.64,287.5
+Lenovo,Ultrabook,16.82,26,Apple M3,1253,Nvidia,1.47,1883.13
+Dell,Gaming,15.27,6,Intel Core i9,1776,Intel,2.36,1857.11
+Lenovo,2 in 1 Convertible,14.1,56,AMD Ryzen 7,832,AMD,2.58,772.88
+Apple,2 in 1 Convertible,16.2,58,Intel Core i9,1160,AMD,1.93,1586.01
+Apple,Notebook,15.41,48,Intel Core i7,276,AMD,1.18,311.29
+MSI,Gaming,15.97,5,Apple M3,465,Intel,3.01,992.54
+HP,Notebook,13.93,6,Intel Core i9,1130,AMD,2.63,287.5
+Asus,Notebook,15.89,23,Intel Core i7,351,Intel,1.67,730.42
+Lenovo,Notebook,14.83,51,Intel Core i7,1261,Nvidia,2.14,2308.35
+Dell,Ultrabook,14.63,56,Apple M3,481,Apple,1.16,402.21
+MSI,Workstation,15.99,47,Intel Core i7,1235,AMD,1.81,1987.18
+Apple,Gaming,15.67,60,Apple M3,682,Nvidia,2.2,1155.39
+Lenovo,Ultrabook,15.9,12,Intel Core i9,193,Nvidia,2.19,976.39
+Asus,Workstation,17.16,51,AMD Ryzen 7,1539,Intel,1.54,3053.68
+Lenovo,Notebook,16.1,7,Intel Core i5,2042,Nvidia,2.73,2538.2
+Asus,2 in 1 Convertible,15.86,28,Intel Core i5,748,Intel,1.73,812.68
+Lenovo,Ultrabook,15.75,55,Intel Core i9,1765,Intel,2.32,3109.88
+HP,Gaming,14.89,53,AMD Ryzen 7,1286,Nvidia,1.67,1542.23
+Lenovo,Gaming,16.66,61,Intel Core i5,1237,Intel,1.99,2323.72
+MSI,Workstation,14.82,4,Intel Core i7,211,Intel,1.54,287.5
+Acer,Ultrabook,16.1,42,Intel Core i9,354,Intel,2.43,1195.33
+HP,Notebook,14.47,55,Intel Core i9,1411,Nvidia,1.99,1831.16
+Asus,Workstation,13.89,15,AMD Ryzen 5,1019,Apple,1.13,287.5
+Apple,Gaming,13.82,43,AMD Ryzen 5,1140,Intel,1.16,287.5
+Apple,Ultrabook,15.84,43,AMD Ryzen 5,147,AMD,2.09,287.5
+Lenovo,2 in 1 Convertible,14.61,63,Apple M3,1186,Nvidia,1.48,1295.01
+Dell,Notebook,14.4,27,AMD Ryzen 7,2016,Nvidia,2.33,1555.71
+Lenovo,Gaming,15.67,57,Intel Core i9,882,Intel,1.96,1737.26
+HP,Ultrabook,13.4,12,AMD Ryzen 5,1594,Nvidia,2.47,840.35
+HP,2 in 1 Convertible,14.28,49,Intel Core i9,1068,AMD,3.1,1320.75
+Asus,Gaming,14.66,23,Intel Core i7,397,Apple,2.21,287.5
+Lenovo,2 in 1 Convertible,16.13,8,AMD Ryzen 5,1886,Nvidia,2.75,2083.75
+Asus,Gaming,15.48,23,Intel Core i9,533,Nvidia,2.68,1071.85
+Dell,Workstation,16.72,24,AMD Ryzen 7,1659,Nvidia,3.04,3000.99
+Apple,Workstation,14.64,5,Apple M3,431,Intel,1.55,287.5
+Apple,Workstation,14.49,24,AMD Ryzen 7,1821,AMD,2.84,1493.91
+Lenovo,Ultrabook,13.43,45,AMD Ryzen 7,1436,Apple,3.0,1326.37
+Asus,Workstation,17.11,27,AMD Ryzen 5,1699,AMD,1.92,1870.42
+Asus,Ultrabook,15.31,12,AMD Ryzen 7,1136,AMD,1.76,287.5
+Dell,Notebook,15.31,42,Apple M3,937,Nvidia,3.1,1702.04
+Asus,Workstation,16.99,58,Intel Core i5,1180,Apple,2.42,2615.55
+Acer,Ultrabook,14.46,33,Apple M3,518,AMD,1.9,287.5
+Acer,Gaming,14.63,57,Intel Core i7,1567,Apple,2.76,1774.11
+HP,Ultrabook,15.93,21,Apple M3,1918,Intel,1.74,2487.77
+Acer,Ultrabook,16.44,61,Intel Core i9,1036,Nvidia,1.47,2218.98
+Acer,Gaming,16.1,47,Intel Core i5,269,Intel,2.24,987.25
+HP,Ultrabook,16.45,46,AMD Ryzen 5,773,Apple,2.29,1789.83
+Acer,Gaming,15.6,13,Intel Core i9,1807,Nvidia,2.83,2075.1
+Acer,2 in 1 Convertible,16.75,48,Apple M3,936,Intel,2.06,1458.25
+HP,Workstation,15.5,44,Intel Core i9,1075,Nvidia,2.81,2330.8
+Lenovo,Notebook,14.22,51,AMD Ryzen 7,2031,Intel,1.75,1845.02
+MSI,Ultrabook,15.47,24,Intel Core i9,1492,AMD,2.31,1973.82
+HP,Gaming,16.15,25,Intel Core i9,372,Nvidia,1.54,758.48
+HP,Workstation,15.91,20,Apple M3,893,Apple,1.91,1358.02
+Acer,Ultrabook,14.27,8,Intel Core i7,1003,Nvidia,2.9,680.68
+Apple,Workstation,13.46,9,Apple M3,1039,Apple,1.55,287.5
+MSI,2 in 1 Convertible,14.31,13,AMD Ryzen 5,1156,Intel,2.8,704.36
+Acer,Ultrabook,17.24,46,Intel Core i5,1047,Intel,1.69,2054.91
+Lenovo,Gaming,14.04,5,AMD Ryzen 7,1066,Apple,1.17,287.5
+HP,2 in 1 Convertible,15.16,10,Intel Core i7,576,Intel,1.33,287.5
+Dell,Ultrabook,15.85,49,Intel Core i5,393,Nvidia,2.67,1678.64
+HP,Workstation,16.82,7,Intel Core i5,1642,Intel,1.65,2090.69
+MSI,2 in 1 Convertible,16.34,40,Intel Core i7,1390,Apple,2.47,2305.62
+Lenovo,Gaming,16.94,22,AMD Ryzen 7,377,Apple,2.57,1171.81
+MSI,Ultrabook,15.72,56,AMD Ryzen 5,1082,AMD,1.82,1474.24
+Asus,Workstation,16.76,31,Intel Core i7,1442,Apple,2.1,2640.78
+MSI,Workstation,14.36,23,Intel Core i7,670,Intel,1.95,880.21
+Acer,2 in 1 Convertible,15.02,63,Intel Core i7,759,Apple,3.09,1434.28
+Apple,Ultrabook,16.68,33,AMD Ryzen 7,1230,Intel,1.77,1758.26
+Apple,Workstation,14.6,45,Intel Core i7,1034,Intel,1.48,751.44
+Acer,2 in 1 Convertible,16.78,41,Intel Core i7,648,AMD,1.87,948.14
+Acer,Notebook,14.75,5,Intel Core i9,1601,Intel,2.51,1245.18
+Lenovo,Workstation,14.75,6,Intel Core i9,1707,Apple,2.56,1618.34
+HP,2 in 1 Convertible,14.54,63,Intel Core i9,1011,Apple,3.04,1929.6
+Dell,Notebook,15.49,50,Intel Core i9,861,Apple,2.95,1552.54
+HP,2 in 1 Convertible,13.82,45,Intel Core i7,271,Intel,1.71,287.5
+HP,Workstation,13.45,52,Intel Core i9,1271,Apple,2.06,1279.16
+Dell,Notebook,16.89,42,Intel Core i5,1071,Nvidia,2.67,2460.54
+Apple,2 in 1 Convertible,17.02,28,AMD Ryzen 5,692,Nvidia,3.02,1677.55
+HP,Ultrabook,13.6,5,Intel Core i9,1728,Apple,1.81,847.66
+Asus,Notebook,15.5,42,AMD Ryzen 7,1327,Intel,2.03,1854.81
+Asus,2 in 1 Convertible,15.46,18,AMD Ryzen 5,197,Apple,2.99,287.5
+Lenovo,Ultrabook,14.79,6,Apple M3,1965,Nvidia,1.85,1390.67
+Lenovo,Notebook,15.58,8,Apple M3,760,Intel,2.11,706.34
+MSI,2 in 1 Convertible,15.13,57,Intel Core i5,1016,Apple,3.0,1712.2
+Dell,Workstation,15.26,43,AMD Ryzen 5,1354,Intel,2.78,2126.93
+Dell,Notebook,16.32,39,AMD Ryzen 5,928,Apple,1.61,1305.31
+Lenovo,Notebook,15.4,53,Intel Core i5,307,AMD,1.78,405.32
+Acer,Ultrabook,14.59,54,Apple M3,720,Intel,1.84,621.37
+HP,2 in 1 Convertible,15.63,43,Intel Core i9,694,Nvidia,3.02,1798.65
+Acer,Workstation,15.86,58,Intel Core i5,818,Nvidia,3.2,2589.49
+Apple,Ultrabook,15.95,41,AMD Ryzen 7,1761,Nvidia,2.73,2684.93
+Asus,Notebook,15.77,40,Intel Core i5,1261,Nvidia,2.12,2114.63
+Dell,Ultrabook,15.96,30,Intel Core i7,1575,Apple,1.12,1514.42
+Lenovo,Ultrabook,14.54,8,Apple M3,792,Apple,2.56,466.23
+Asus,Ultrabook,15.08,20,Intel Core i7,1654,Intel,1.92,1629.75
+Acer,Notebook,15.97,41,Apple M3,533,AMD,2.43,685.19
+Dell,Gaming,16.32,48,Apple M3,1113,AMD,2.37,1730.66
+Dell,Ultrabook,15.04,44,AMD Ryzen 5,764,Intel,2.11,1133.59
+MSI,Gaming,14.76,59,Intel Core i9,1242,Nvidia,3.08,3027.37
+HP,Workstation,16.16,15,Intel Core i9,1445,AMD,1.15,1364.83
+Dell,Workstation,14.19,45,Apple M3,1544,AMD,2.6,1908.21
+Apple,Workstation,13.34,34,Apple M3,1188,Intel,1.96,310.23
+Dell,2 in 1 Convertible,15.18,36,Intel Core i7,644,Nvidia,2.6,1314.38
+Apple,Notebook,13.99,46,AMD Ryzen 7,977,Apple,2.52,416.28
